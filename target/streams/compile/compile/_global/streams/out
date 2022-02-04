@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELL\Downloads\play-samples-play-java-starter-example\app\views\hello.scala.html:4:34: missing argument list for method apply in object main[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `apply _` or `apply(_)(_)(_)` instead of `apply`.[0m
+[0m[[0m[31merror[0m] [0m[0m<!-- In the line below with @main("Hello....") we are sending two varibles to main.scala.html with title as "Hello" and another html body -->[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
