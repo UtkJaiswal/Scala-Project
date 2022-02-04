@@ -30,12 +30,12 @@ public class HomeController extends Controller {
     public Result index() {
         return ok(
             index.render(
-                "Gurukul-Bytes",
+                "Scala",
                 assetsFinder
             ));
     }
 
-    // hello page ka syntax
+    // hello page syntax which takes a string argument to display the name like Guru and renders hello.scala.html from views folder
     public Result hello(String name) {
         return ok(views.html.hello.render(name,assetsFinder));
     }

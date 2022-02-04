@@ -34,7 +34,7 @@ object index extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.Html
 
 Seq[Any](format.raw/*6.1*/("""
 """),format.raw/*11.4*/("""
-"""),_display_(/*12.2*/main("Gurukul-Bytes")/*12.23*/ {_display_(Seq[Any](format.raw/*12.25*/("""
+"""),_display_(/*12.2*/main("Scala")/*12.15*/ {_display_(Seq[Any](format.raw/*12.17*/("""
 
     """),format.raw/*17.8*/("""
     """),_display_(/*18.6*/welcome(message, style = "java")),format.raw/*18.38*/("""
@@ -57,8 +57,8 @@ Seq[Any](format.raw/*6.1*/("""
               /*
                   -- GENERATED --
                   SOURCE: app/views/index.scala.html
-                  HASH: e6dc3bb6ae0678a2f14769607e7a479e13530ae8
-                  MATRIX: 1048->134|1196->189|1224->384|1252->386|1282->407|1322->409|1355->538|1387->544|1440->576|1473->579
+                  HASH: f2e883e40a98c3c6f27e186ffc4f895242243026
+                  MATRIX: 1048->134|1196->189|1224->384|1252->386|1274->399|1314->401|1347->530|1379->536|1432->568|1465->571
                   LINES: 30->5|35->6|36->11|37->12|37->12|37->12|39->17|40->18|40->18|42->20
                   -- GENERATED --
               */
